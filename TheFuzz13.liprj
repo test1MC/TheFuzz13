@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="C:\Users\clontoc\Documents\My Translated Projects\TheFuzz13.liprjf" SourceControlDatabase="C:\Users\clontoc\Documents\My Translated Projects\TheFuzz13.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="2893dcc4-59c1-4ecc-b639-0659195fd735">
+    <ProjectFile Source="Target/Flare-4lingo2.flprj" Target="Target/Flare-4lingo2.flprj" />
+</LingoProject>
